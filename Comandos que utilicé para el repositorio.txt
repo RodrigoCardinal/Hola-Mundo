@@ -1,0 +1,19 @@
+Comandos que utilicé para el repositorio:
+
+- cd C:\Users\Rodrigo Cardinal\OneDrive\Documentos\PROG.2_SegundoSemestre
+
+- git clone
+
+- cd C:\Users\Rodrigo Cardinal\OneDrive\Documentos\PROG.2_SegundoSemestre\Hola-Mundo
+
+- type nul > README.md
+
+- git add .
+
+- git commit
+
+- :wq
+
+- git push
+
+- git pull
